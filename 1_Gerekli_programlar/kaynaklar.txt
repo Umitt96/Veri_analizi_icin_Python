@@ -1,0 +1,11 @@
+## Yazılı kaynaklar
+
+- https://python-istihza.yazbel.com/
+- https://enginunal.medium.com/python-notlar-1a0b9854b541
+- https://iksadyayinevi.com/wp-content/uploads/2021/11/UYGULAMALARLA-TEMEL-SEVIYE-PYTHON.pdf
+
+## Video kaynaklar
+
+- https://www.youtube.com/watch?v=tvvEqvyh_Vw
+- https://www.youtube.com/watch?v=_wZUNiGtkcw
+- https://www.youtube.com/watch?v=rfscVS0vtbw
